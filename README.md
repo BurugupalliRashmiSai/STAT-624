@@ -2,3 +2,7 @@
 Creating for STAT 624 Course
 
 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 - personal token, use this for password while pushing
+
+NEW ONE
+
+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
